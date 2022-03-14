@@ -133,3 +133,9 @@ body {
 .settings {
   display: flex;
 }
+
+.map_block{
+  text-align: center;
+  padding-bottom: 1%;
+  padding-top: 22%;
+}
